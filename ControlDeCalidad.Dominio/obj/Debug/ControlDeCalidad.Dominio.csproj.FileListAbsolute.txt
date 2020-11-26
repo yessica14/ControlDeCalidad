@@ -1,0 +1,24 @@
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.csprojAssemblyReference.cache
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad\ControlDeCalidad.Dominio\bin\Debug\ControlDeCalidad.Dominio.dll
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad\ControlDeCalidad.Dominio\bin\Debug\ControlDeCalidad.Dominio.pdb
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.dll
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.pdb
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad v3\ControlDeCalidad v2\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad v3\ControlDeCalidad v2\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.dll
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad v3\ControlDeCalidad v2\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.pdb
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad v3\ControlDeCalidad v2\ControlDeCalidad\ControlDeCalidad.Dominio\bin\Debug\ControlDeCalidad.Dominio.dll
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad v3\ControlDeCalidad v2\ControlDeCalidad\ControlDeCalidad.Dominio\bin\Debug\ControlDeCalidad.Dominio.pdb
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad v3\ControlDeCalidad v2\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.csprojAssemblyReference.cache
+C:\Users\Yessica-\Documents\ingenieria del software\controlDeCalidad-10-09-2020\ControlDeCalidad\ControlDeCalidad.Dominio\bin\Debug\ControlDeCalidad.Dominio.dll
+C:\Users\Yessica-\Documents\ingenieria del software\controlDeCalidad-10-09-2020\ControlDeCalidad\ControlDeCalidad.Dominio\bin\Debug\ControlDeCalidad.Dominio.pdb
+C:\Users\Yessica-\Documents\ingenieria del software\controlDeCalidad-10-09-2020\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.csprojAssemblyReference.cache
+C:\Users\Yessica-\Documents\ingenieria del software\controlDeCalidad-10-09-2020\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Yessica-\Documents\ingenieria del software\controlDeCalidad-10-09-2020\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.dll
+C:\Users\Yessica-\Documents\ingenieria del software\controlDeCalidad-10-09-2020\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.pdb
+C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.Dominio\bin\Debug\ControlDeCalidad.Dominio.dll
+C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.Dominio\bin\Debug\ControlDeCalidad.Dominio.pdb
+C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.csprojAssemblyReference.cache
+C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.dll
+C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.pdb

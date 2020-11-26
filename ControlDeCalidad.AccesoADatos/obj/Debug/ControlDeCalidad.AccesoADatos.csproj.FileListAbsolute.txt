@@ -1,0 +1,36 @@
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.AccesoADatos.dll
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.AccesoADatos.pdb
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.Dominio.dll
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.Dominio.pdb
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.csprojAssemblyReference.cache
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.csproj.CopyComplete
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.dll
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.pdb
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad v3\ControlDeCalidad v2\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.csprojAssemblyReference.cache
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad v3\ControlDeCalidad v2\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad v3\ControlDeCalidad v2\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.dll
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad v3\ControlDeCalidad v2\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.pdb
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad v3\ControlDeCalidad v2\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.AccesoADatos.dll
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad v3\ControlDeCalidad v2\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.AccesoADatos.pdb
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad v3\ControlDeCalidad v2\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.Dominio.dll
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad v3\ControlDeCalidad v2\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.Dominio.pdb
+C:\Users\Juan-PCMR\Desktop\yess\ControlDeCalidad v3\ControlDeCalidad v2\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.csproj.CopyComplete
+C:\Users\Yessica-\Documents\ingenieria del software\controlDeCalidad-10-09-2020\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.AccesoADatos.dll
+C:\Users\Yessica-\Documents\ingenieria del software\controlDeCalidad-10-09-2020\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.AccesoADatos.pdb
+C:\Users\Yessica-\Documents\ingenieria del software\controlDeCalidad-10-09-2020\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.Dominio.dll
+C:\Users\Yessica-\Documents\ingenieria del software\controlDeCalidad-10-09-2020\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.Dominio.pdb
+C:\Users\Yessica-\Documents\ingenieria del software\controlDeCalidad-10-09-2020\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.csprojAssemblyReference.cache
+C:\Users\Yessica-\Documents\ingenieria del software\controlDeCalidad-10-09-2020\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Yessica-\Documents\ingenieria del software\controlDeCalidad-10-09-2020\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.csproj.CopyComplete
+C:\Users\Yessica-\Documents\ingenieria del software\controlDeCalidad-10-09-2020\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.dll
+C:\Users\Yessica-\Documents\ingenieria del software\controlDeCalidad-10-09-2020\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.pdb
+C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.AccesoADatos.dll
+C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.AccesoADatos.pdb
+C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.Dominio.dll
+C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.Dominio.pdb
+C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.csprojAssemblyReference.cache
+C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.csproj.CopyComplete
+C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.dll
+C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.pdb
