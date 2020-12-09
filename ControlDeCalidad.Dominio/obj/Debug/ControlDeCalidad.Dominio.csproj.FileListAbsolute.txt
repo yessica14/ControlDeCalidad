@@ -22,3 +22,9 @@ C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.Dominio\obj
 C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.dll
 C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.pdb
+E:\GIT\ControlDeCalidad\ControlDeCalidad.Dominio\bin\Debug\ControlDeCalidad.Dominio.dll
+E:\GIT\ControlDeCalidad\ControlDeCalidad.Dominio\bin\Debug\ControlDeCalidad.Dominio.pdb
+E:\GIT\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.csprojAssemblyReference.cache
+E:\GIT\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.csproj.CoreCompileInputs.cache
+E:\GIT\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.dll
+E:\GIT\ControlDeCalidad\ControlDeCalidad.Dominio\obj\Debug\ControlDeCalidad.Dominio.pdb

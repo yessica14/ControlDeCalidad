@@ -21,7 +21,6 @@ namespace ControlDeCalidad.AccesoADatos.Servicios
                 { 
                     Numero = 1,
                     Descripcion = "Mal pegado",
-                   
 
                 }
             );

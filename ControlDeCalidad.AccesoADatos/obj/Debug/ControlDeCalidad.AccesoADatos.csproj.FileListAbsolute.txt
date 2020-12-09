@@ -34,3 +34,12 @@ C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.AccesoADato
 C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.csproj.CopyComplete
 C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.dll
 C:\Users\Juan-PCMR\Desktop\yessica\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.pdb
+E:\GIT\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.AccesoADatos.dll
+E:\GIT\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.AccesoADatos.pdb
+E:\GIT\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.Dominio.dll
+E:\GIT\ControlDeCalidad\ControlDeCalidad.AccesoADatos\bin\Debug\ControlDeCalidad.Dominio.pdb
+E:\GIT\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.csprojAssemblyReference.cache
+E:\GIT\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.csproj.CoreCompileInputs.cache
+E:\GIT\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.csproj.CopyComplete
+E:\GIT\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.dll
+E:\GIT\ControlDeCalidad\ControlDeCalidad.AccesoADatos\obj\Debug\ControlDeCalidad.AccesoADatos.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlDeCalidad.Dominio", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlDeCalidad.AccesoADatos", "ControlDeCalidad.AccesoADatos\ControlDeCalidad.AccesoADatos.csproj", "{DB783482-3222-439D-A89D-A0BF027F91DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestControlCalidad", "UnitTestControlCalidad\UnitTestControlCalidad.csproj", "{36FC784F-CAED-484C-A4CF-4599A032BAC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DB783482-3222-439D-A89D-A0BF027F91DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB783482-3222-439D-A89D-A0BF027F91DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB783482-3222-439D-A89D-A0BF027F91DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36FC784F-CAED-484C-A4CF-4599A032BAC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FC784F-CAED-484C-A4CF-4599A032BAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FC784F-CAED-484C-A4CF-4599A032BAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FC784F-CAED-484C-A4CF-4599A032BAC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
